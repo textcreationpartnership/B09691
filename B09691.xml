@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Relation of the publick, testimony of joy, shewn by Sir Gabriel Sylvius, envoy extraordinary from His Majesty of Great Britain to the King of Denmark, for the birth of His Royal Highness the Prince of Wales, the 12th of July, 1688</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09691</idno><idno type="EEBO-CITATION">64551658</idno>
+  <idno type="VID">184758</idno>
+  <idno type="EEBO-PROQUEST">2240879254</idno>
+  
+            <idno type="STC">Wing P860A</idno>
+            <idno type="STC">ESTC R182593</idno>
+            <idno type="OCLC">64551658</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09691)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184758)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Relation of the publick, testimony of joy, shewn by Sir Gabriel Sylvius, envoy extraordinary from His Majesty of Great Britain to the King of Denmark, for the birth of His Royal Highness the Prince of Wales, the 12th of July, 1688</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James, --  Prince of Wales, 1688-1766.</term>
+               <term type="personal_name">Christian --  V, --  King of Denmark and Norway, 1646-1699.</term>
+               <term type="personal_name">Sylvius, Gabriel, --  Sir.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:184758:1"/>
+            <head>A Relation of the publick Testimony of Joy, Shewn by Sir GABRIEL SYLVIUS, Envoy Extraordinary FROM His Majesty of Great Britain TO THE KING of <hi>DENMARK,</hi> FOR The BIRTH of His Royal Higness <hi>The Prince of Wales;</hi> The <hi>12th</hi> of <hi>July,</hi> 1688.</head>
+            <p>SIR <hi>Gabriel Sylvius,</hi> Envoy Extraor<g ref="char:EOLhyphen"/>dinary from His MAJESTY of Great <hi>Britain</hi> to the King of <hi>Denmark,</hi> having receiv'd Information from <hi>England</hi> of the Birth of His Royal Highness the PRINCE of <hi>Wales;</hi> imme<g ref="char:EOLhyphen"/>diately gave Order for the preparing all things, <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e to celebrate a solemn Rejoycing on that Occasion, which was on the <hi>12th</hi> of <hi>July</hi> very magnificently perform'd.</p>
+            <p>On which day the Envoy at a most splendid Dinner treated all the Ministers of State, the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ick Ministers of Foreign Princes, with most of those of the Court. And whilst they din'd, the Fountains, that were before his House, con<g ref="char:EOLhyphen"/>tinually ran with White Wine and Claret, and a great quantity of Cannon was fir'd to the <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ths they drank, being to the number of three or four hundred.</p>
+            <p>At Night in a spatious place on the Sea-side, and before the House of the said Envoy, did ap<g ref="char:EOLhyphen"/>pear an Amphitheatre, garnish'd all over with the Arms of the KING of Great <hi>Britain,</hi> the QUEEN, and the PRINCE of <hi>Wales,</hi> with their Supporters, the Lion and the Unicorn, all which were illuminated: And beyond these <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e several Stairs, that led to a Tower, whereon were plac'd the Kings Arms, all in Artificial Fire, which burnt for the space of Three Hours, and were so lively represented, that one might have distinguish'd betwixt the Pearls and Rubies of the Crown, and also have discern'd, as well what was written about the Garter, as His MAJESTIES Motto,</p>
+            <q>
+               <hi>Dieu &amp; mon Droit.</hi>
+            </q>
+            <p>On the Corners of the Amphitheatre were e<g ref="char:EOLhyphen"/>rected several Pyramids, out of the Top of which issu'd Artificial Fire, representing seve<g ref="char:EOLhyphen"/>ral sorts of Flowers.</p>
+            <p>Over the Portal of the Amphitheatre were plac'd the Arms of the PRINCE of <hi>Wales</hi> with his Motto, <q>
+                  <hi>Ich dien,</hi>
+               </q> which was also in Artificial Fire; and before the said Portal was the Figure of a Woman, representing <hi>Britannia,</hi> with a Spear in her hand, and leaning on a Tar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t, which was likewise in Artificial Fire.</p>
+            <p>Nearer the Envoys House were the Foun<g ref="char:EOLhyphen"/>tains, which ran with Wine in divers Places by little Pipes, secretly laid for that purpose, over which were His MAJESTIES Arms, curiously Engraven, Gilt, and Painted in their proper Colours; and at the sides were Circles of Fire, so enlightning the Fountain, that one might see it run.</p>
+            <p>Just before the House was a great Basin, fill'd by a Pipe, which, being in the midst of it, cast the Water up thirty Foot high. Round about the Basin were Fireworks, which, ha<g ref="char:EOLhyphen"/>ving burnt some time, flew into the Air, and there brake with a wonderful Noise. In the mean time was seen in the Water a Castle, out of which issu'd divers sorts of Fireworks, which, flying into the Air, and there break<g ref="char:EOLhyphen"/>ing, were some of them converted into a quan<g ref="char:EOLhyphen"/>tity of Serpents, others into falling Stars, and others into Globes of Fire. After this there was another sort of Firework put into the Ba<g ref="char:EOLhyphen"/>sin, which, having made an hundred several Shapes and Figures, sunk to the Bottom, where breaking on a sudden, it flung the Wa<g ref="char:EOLhyphen"/>ter out of the Basin in the form of a great Sheet, which, separating, fell down like a Shower, the Firework also once more break<g ref="char:EOLhyphen"/>ing in the Air, and sending down a Shower of Fire, so well mixt with the Water, that <hi>Vulcan</hi> and <hi>Neptune</hi> seem'd to be striving for the Mastery. All this time the Cannon were discharg'd, and several other Fireworks cast into the Air by Mortar-pieces.</p>
+            <p>Thus pass'd things without the House, within which were at the entrance divers De<g ref="char:EOLhyphen"/>vices, compos'd to the Honor of the KING, QUEEN, and PRINCE, and, as occasion serv'd, interlac'd with their Names, all which were illuminated.</p>
+            <p>Just within the great Door was a Woman arm'd, representing the Genius of Great <hi>Bri<g ref="char:EOLhyphen"/>tain,</hi> holding the PRINCE of <hi>Wales</hi> in her Arms, with these Words, <q>
+                  <hi>Britanniae spes alterae Magnae,</hi>
+               </q> and underneath <q>
+                  <hi>Vivat.</hi>
+               </q>
+            </p>
+            <p>At the bottom of the great Stair-case, to represent His MAJESTIES Care and Vigi<g ref="char:EOLhyphen"/>lancy
+<pb facs="tcp:184758:2"/> for his People, was a Lion sleeping with his Eyes open, and these words, <q>
+                  <hi>Et dormiend<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> vigilat.</hi>
+               </q>
+            </p>
+            <p>Going up the Stairs were these following Devices.</p>
+            <p>First, a Serpent wound up, erecting his Head in the middle, with this word, <q>
+                  <hi>Custos.</hi>
+               </q>
+            </p>
+            <p>Near this was a Lion standing, with a lit<g ref="char:EOLhyphen"/>tle Dog laid down before him, and on the other side a wil Beast torn in pieces, with this Motto, <q>
+                  <hi>Parcit Subjectis, debellat Superbos.</hi>
+               </q>
+            </p>
+            <p>By this Emblem was signifi'd His MAJESTIES Clemency to those, who submit to him, and his Justice to those, that resist.</p>
+            <p>To shew, that he enterprises nothing with<g ref="char:EOLhyphen"/>out throughly examining it, there was painted an Unicorn, with these words, <q>
+                  <hi>Non aggreditur, quin praeviderit.</hi>
+               </q>
+            </p>
+            <p>To signify his constant Endeavors to bring his People to be of one Mind, and make them accord and agree, there was an Harp, with an Hand, striking on some of its Strings. The Motto was, <q>
+                  <hi>Movet, ut consonent.</hi>
+               </q>
+            </p>
+            <p>To represent the Encouragement, he gives to Learning and Arts, there was a white Eagle flying towards the Muses, who receiv'd her into their Bosom, with these Words, <q>
+                  <hi>Et istis favet.</hi>
+               </q>
+            </p>
+            <p>To shew, that the KING is the Happiness of his Kingdoms, and how much the Birth of the PRINCE of <hi>Wales</hi> contributes to their safety, was painted a Tempestuous Sea, with a Ship, that had cast Anchor, on which a Dolphin rid, to make it take the deeper hold, with this Motto, <q>
+                  <hi>Incolumitas publica.</hi>
+               </q>
+            </p>
+            <p>To signify, that the QUEENS giving a PRINCE to Great <hi>Britain</hi> is a peculiar Blessing, conferr'd on her by Heaven, was painted a Field, cover'd with Ears of Corn, and a gentle Shower falling on it, with these Words, <q>
+                  <hi>Benedictionem accepit.</hi>
+               </q>
+            </p>
+            <p>To shew, that Her Majesty, having receiv'd this PRINCE, as a Gift from Heaven, be<g ref="char:EOLhyphen"/>stow'd him on the People for their Good and Joy: There was an high Mountain, that, having receiv'd the Rain, sent it down by many Ri<g ref="char:EOLhyphen"/>vulets into the Valleys, which were thereby render'd Fertile and Green. The Words were, <q>
+                  <hi>Recepit, &amp; largitur.</hi>
+               </q>
+            </p>
+            <p>To represent the Qualities of the New Born PRINCE, there was an Eagle, having in her Nest a young one, which strove to fly after a Bird, it saw in the Air, with this Motto, <q>
+                  <hi>Fortes creantur fortibus.</hi>
+               </q>
+            </p>
+            <p>To intimate the Majesty, appearing in him from his very Birth, there was painted a young Lion, newly born, and having his Eyes spark<g ref="char:EOLhyphen"/>ling, with these Words, <q>
+                  <hi>Nascendo perspicax.</hi>
+               </q>
+            </p>
+            <p>There was also a Ship, whose Anchor, being lifted up out of the Sea, drew with it a Coral Tree, which, as it rose, grew hard and red: The Motto was, <q>
+                  <hi>Robur &amp; Decus.</hi>
+               </q>
+            </p>
+            <p>To shew, that the PRINCE is the Hope, and will be the Support, of the Royal Family, were represented two Palm-trees, the one Male, the other Female, and betwixt them a young In<g ref="char:EOLhyphen"/>fant Palm, with these Words, <q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+            </p>
+            <p>To signify, that the Birth of his Royal High<g ref="char:EOLhyphen"/>ness is an Obstacle to the Designs of such, as would oppose Great <hi>Britains</hi> Happiness, was painted a rising Sun, with many Stars about it, whose Courses contrary to the Suns, are checke by his Arisal: The Motto was, <q>
+                  <hi>Cursus{que} vagos statione moratur.</hi>
+               </q>
+            </p>
+            <p>There was likewise in another place another Sun arising, and beginning to Shine on the Earth, with this Motto, <q>
+                  <hi>Toti{que} salutifer Orbi.</hi>
+               </q>
+            </p>
+            <p>There was a little farther an Eagle, flying out of the Nest, where it had left its young one, which, nevertheless opening its Wings, tries to follow: The Words were, <q>
+                  <hi>Per Patris Augusti vestigia curret.</hi>
+               </q>
+            </p>
+            <p>To shew, that the Birth of this PRINCE calms all the Disorders, with which Great <hi>Britain</hi> might seem to be threatned, and fills the Hearts of the People with Joy: There was the Island of Great <hi>Britain,</hi> as it is represented in the Map, environ'd with the Sea, on which the Rising Sun extending its Beams, drives away the Clouds, that seem'd to cover it, with these Words, <q>
+                  <hi>Illas fugat, recreat istas.</hi>
+               </q>
+            </p>
+            <p>This also was the device of Medal, which St. <hi>Gabriel</hi> caus'd to be coin'd, there being only added at the bottom these words, <q>
+                  <hi>Ob natum Walliae Principem Gab. de Sylviis<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> auratus, ad Ser. Dan. &amp; Nor. Reg. Chris<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </q>
+            </p>
+            <p>
+               <hi>Ableg. Extraord.</hi> CC. MDCLXXXVIII. On the other side of which Medal were rep<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>sented the KING and QUEEN.</p>
+            <p>All these Devices were on the great Stai-cas<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and so illuminated, that the Night seem'd turn'd into day. Thrô the midst of these Illuminations they ascended up into the Great Hall, where the the King and Queen of <hi>Denmark,</hi> who had pro<g ref="char:EOLhyphen"/>mis'd to be at the Ball, was prepar'd a stately Throne, the Ground being all of Green, inter<g ref="char:EOLhyphen"/>lac'd with all sorts of Flowers, which cast a sweet Odor. The Canopy was also of the same<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> only that there were Festons running along it in the nature of a Fringe. On the Back, whe<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the King should have sat, were two great Look<g ref="char:EOLhyphen"/>ing-Glasses, having their Borders cover'd with Sweet-herbs and Flowers, the whole Room<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing also hung with Looking Glasses, garnis<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with Flowers and Green, which with the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> number of Lights, and their Reflexions,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it seem all on fire.</p>
+            <p>In another Room beyond the Hall was<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>par'd a Magnificent Collation, whither<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who were weary'd, retir'd, to refresh themsel<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with all sorts of Liquors and Sweet-meats.</p>
+            <p>The Prince Royal, and his Brother, whom His Majesty of <hi>Denmark</hi> had sent both to excuse his Absence, and to Grace the Ball, as they do every place, where they come, together with all the rest of that illustrious Company, departed highly satisfi'd with the Nobleness of their En<g ref="char:EOLhyphen"/>tertainment, which was equally Magnifice<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Delightful.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edw: Jones</hi> in the <hi>Savoy,</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
